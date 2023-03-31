@@ -18,11 +18,11 @@ A aplicação faz um CRUD de produtos.
 ## Como foi feito? 
 > A aplicação foi desenvolvida utilizando ReactJS e as seguintes tecnologias `vite`, `typescript`, `styled-components`, `formik`, `yup`, `axios`, `useEffect`, `useState`, `useNavigate`, `json-server`, `cypress`.
 > 
-> Para iniciar o projeto, criei as seguintes rotas:
-> `/` = Onde é exibida a página inicial do projeto;
-> `/default/products` = Onde é exibida a listagem dos produtos;
-> `/default/add` = Onde é possível criar um novo produto;
-> `/default/edit` = Onde é possível editar o produto;
+> Para iniciar o projeto, criei as seguintes rotas:<br />
+> `/` = Onde é exibida a página inicial do projeto;<br />
+> `/default/products` = Onde é exibida a listagem dos produtos;<br />
+> `/default/add` = Onde é possível criar um novo produto;<br />
+> `/default/edit` = Onde é possível editar o produto;<br />
 
 >## Listagem de produtos
 > Utilizando o `json-server` para criar a fake API, criei o arquivo `/api/index.ts` que faz a conexão com o arquivo `db.json`,
