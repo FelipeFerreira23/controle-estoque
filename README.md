@@ -2,6 +2,9 @@
 
 A aplicação faz um CRUD de produtos.
 
+<img src="https://user-images.githubusercontent.com/53622773/229131664-2d71faab-c3de-4da9-95c6-0e11bb9824c1.png" width="700px" />
+
+
 #### Funcionalidades da aplicação:
 
 - Listagem de produtos;
