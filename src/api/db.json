@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Camiseta Em Meia Malha",
+      "description": "Camiseta, manga curta, confeccionada em material responsável e estampa frontal de urso com cabeça em chenille.",
+      "sizes": "30 x 60 x 5 cm",
+      "weight": 1,
+      "cod": 9879879879874,
+      "category": "camisetas, masculino",
+      "price": 199.99,
+      "acquisition": "2023-03-22",
+      "src": "https://img.lojasrenner.com.br/item/727245341/large/3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Calça Jogger Cargo Em Sarja Preto",
+      "description": "Calça Jogger Cargo em Sarja",
+      "sizes": "40 x 100 x 5 cm",
+      "weight": 2,
+      "cod": 65465465464,
+      "category": "calças, masculino",
+      "price": 119.9,
+      "acquisition": "2023-03-20",
+      "src": "https://img.lojasrenner.com.br/item/548624231/large/1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bermuda Reta Básica Em Sarja Com Bolsos Azul Esverdeado",
+      "description": "Bermuda reta em sarja, com bolsos. Básica, sem perder em estilo, a peça é uma opção versátil para compor visuais casuais.",
+      "sizes": "60 x 80 x 5 cm",
+      "weight": 2.5,
+      "cod": 122121212121,
+      "category": [
+        "bermudas",
+        "masculino"
+      ],
+      "price": 99.9,
+      "acquisition": "2023-03-10",
+      "src": "https://img.lojasrenner.com.br/item/595185197/large/1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blusa Alongada Em Algodão Com Estampa Tigre E Ambition Cinza",
+      "description": "Blusa t-shirt gola redonda, cava deslocada e manga curta, com estampa localizada de tigre e lettering Ambition. Estilosa, a peça é ideal para quem procura versatilidade e conforto nos looks para o dia a dia.",
+      "sizes": "10 x 20 x 30",
+      "weight": 1,
+      "cod": 9999999,
+      "category": "Camisetas, Feminino",
+      "price": 39.9,
+      "acquisition": "2023-03-01",
+      "src": "https://img.lojasrenner.com.br/item/637806466/large/3.jpg"
+    }
+  ]
+}
