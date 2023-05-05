@@ -13,8 +13,6 @@ A aplicação faz um CRUD de produtos.
 - Remoção de produtos;
   
 
-**Objetivo**: Desafio Técnico Sponte
-
 ## Como foi feito? 
 > A aplicação foi desenvolvida utilizando ReactJS e as seguintes tecnologias `vite`, `typescript`, `styled-components`, `formik`, `yup`, `axios`, `useEffect`, `useState`, `useNavigate`, `json-server`, `cypress`.
 > 
@@ -49,9 +47,9 @@ e para exibir as informações na tela e iterei através de um `.map()`
 
 3. Faça um clone do repositório:
 
-  `git clone https://github.com/FelipeFerreira23/desafio-sponte`;
+  `git clone https://github.com/FelipeFerreira23/controle-estoque`;
 
-4. Entre na pasta pelo terminal: `cd desafio-sponte`;
+4. Entre na pasta pelo terminal: `cd controle-estoque`;
 
 5. Rode `npm install` para instalar as dependências do projeto;
 
